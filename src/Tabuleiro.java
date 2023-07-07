@@ -79,6 +79,7 @@ public class Tabuleiro {
             posicionamentoValido = false;
         }
         return posicionamentoValido;
+
     }
 
 
